@@ -14,4 +14,4 @@ O projeto foi desenvolvido utilizando:
 
 - **HTML semântico**, para estruturar o conteúdo de forma acessível e organizada.
 
-<img src="./assets/Demoostrativo.png" alt="Demonstrativo" height="100px" />
+<img src="./assets/Demoostrativo.png" alt="Demonstrativo" height="1000px" />
